@@ -1,0 +1,3 @@
+/Users/jafri/test3/CMakeFiles/rebuild_cache.dir
+/Users/jafri/test3/CMakeFiles/edit_cache.dir
+/Users/jafri/test3/CMakeFiles/contracts_project.dir
